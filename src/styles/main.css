@@ -1,3 +1,4 @@
+/* This keeps the images from becoming super huge when we pull them from the API */
 img {
     width: 50px;
 }
